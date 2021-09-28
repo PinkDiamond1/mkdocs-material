@@ -18,7 +18,7 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-FROM python:3.8.1-alpine3.11
+FROM python:3.8.6-alpine3.11
 
 # Set build directory
 WORKDIR /tmp
